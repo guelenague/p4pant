@@ -710,7 +710,7 @@ p {
     margin: auto auto auto auto;
 }
 
-h2 {
+h4 {
     font-size: 22px;
     line-height: 1.4em;
     color: #FFFFFF!important;
@@ -734,7 +734,7 @@ h1 {
     color: black;
 }
 
-h4 {
+h2 {
     margin: 0 auto;
     width: 75%;
     text-align: center;
@@ -755,7 +755,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: white!important;
 }
 
 .portfolio-thumb {
@@ -799,12 +799,12 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .ltc-white {
